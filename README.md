@@ -1,4 +1,4 @@
-# online-sinav-sistemi
+# online-exam-system
 
 ## Project
 This project is simple online exam system. The project made with PHP + MySQL. 
